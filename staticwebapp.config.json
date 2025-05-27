@@ -9,6 +9,7 @@
         "put",
         "patch"
       ],
+      "rewrite": "/client",
       "redirect": "https://test-spring-boot-app.azurewebsites.net"
     }
   ]

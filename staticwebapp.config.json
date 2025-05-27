@@ -1,14 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/",
-      "methods": [
-        "get",
-        "post",
-        "delete",
-        "patch"
-      ],
-      "redirect": "  https://test-spring-boot-app.azurewebsites.net"
-    }
-  ]
-}
+{}
